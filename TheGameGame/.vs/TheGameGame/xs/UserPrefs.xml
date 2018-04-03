@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F14D5DE7-B472-9C2D-EC74-2E2DC31F4943}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MechanicScripts/ScriptableObjects/SpawnPrototype(Fritz)/EnemySpawner.cs">
+    <Files>
+      <File FileName="Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Editor/FMOD/EventManager.cs" Line="552" Column="1" />
+      <File FileName="Assets/Plugins/Editor/FMOD/EditorUtils.cs" Line="264" Column="1" />
+      <File FileName="Assets/Scripts/MechanicScripts/ScriptableObjects/SpawnPrototype(Fritz)/EnemySpawner.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheGameGame.Editor.Plugins PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.TheGameGame PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
