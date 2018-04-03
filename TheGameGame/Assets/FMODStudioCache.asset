@@ -17,6 +17,7 @@ MonoBehaviour:
   StringsBankRef: {fileID: 0}
   stringsBankWriteTime: 0
   cacheVersion: 2
+
 --- !u!114 &114006925874101092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -823,3 +824,4 @@ MonoBehaviour:
   Min: 0
   Max: 4
   Default: 0
+
